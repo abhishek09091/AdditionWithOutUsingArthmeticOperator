@@ -19,8 +19,8 @@ public class AdditionWithoutArthmeticOperation {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("Result of following operation "+ addition(-15, 17));
-		
+		System.out.println("Result of following operation "+ addition(-15, -17));
+		System.out.println("Result of following operation" + addition(30, 30));		
 	}
 
 }
