@@ -20,8 +20,8 @@ public class AdditionWithoutArthmeticOperation {
 		// TODO Auto-generated method stub
 
 		System.out.println("Result of following operation "+ addition(-15, -17));
-		System.out.println("Result of following operation" + addition(30, 30));	
-	System.out.println("Result of following operation" + addition(30, 454);			
+		System.out.println("Result of following operation " + addition(30, 30));	
+	System.out.println("Result of following operation " + addition(30, 454));			
 	}
 
 }
